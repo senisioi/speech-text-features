@@ -1,6 +1,6 @@
 ### Comparing Speech and Text Classification of Native and Non-native English Speakers
 
-#### This repository contains a dataset of speech and text features extracted from the International Corpus Network of Asian Learners of English ([ICNALE] (http://language.sakura.ne.jp/icnale/)).
+#### This repository contains a dataset of speech and text features extracted from the International Corpus Network of Asian Learners of English ([ICNALE](http://language.sakura.ne.jp/icnale/)).
 
 - only the extracted features are available; to get the full data, pleas visit the [official page](http://language.sakura.ne.jp/icnale/download.html)
 - the dataset is extracted from speeches of students being asked to discuss the importance of having a part time job (PTJ)
